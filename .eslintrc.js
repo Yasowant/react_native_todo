@@ -1,4 +1,8 @@
-module.exports = {
-  root: true,
-  extends: '@react-native',
+export const rules = {
+  'prettier/prettier': [
+    'error',
+    {
+      endOfLine: 'auto',
+    },
+  ],
 };

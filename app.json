@@ -1,4 +1,11 @@
 {
   "name": "reactnativedemo",
-  "displayName": "reactnativedemo"
+  "displayName": "reactnativedemo",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d5e04cf2-521c-42c6-a737-e3f003a30544"
+      }
+    }
+  }
 }
